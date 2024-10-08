@@ -18,11 +18,13 @@ In this section we will cover the topics such as; how to handle and process the 
     * cut and qcut Methods of Pandas
     * Deleting Rows and Columns
     * Missing Values
+    * Groupby Method
+    * Pivot Tables in Pandas
 
 **Future Topics:**
 * Continuation of Pandas
-    * Groupby Method
-    * Pivot Tables in Pandas
+    * ~Groupby Method~
+    * ~Pivot Tables in Pandas~
     * Apply and Lambda in Pandas
     * Concat, Join and Merge Methods
 * Exploratory Data Analysis
