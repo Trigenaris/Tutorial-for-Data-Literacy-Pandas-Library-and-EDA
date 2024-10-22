@@ -17,13 +17,26 @@ The Dataset and the EDA notebook for this section:
     * Data Frames and Series
     * Indexing a Data Frame
     * Selecting a Specific Part of a Data Frame (iloc and loc)
-    * Modfying Columns and Adding New Columns
+    * Modifying Columns and Adding New Columns
     * Resetting the Data Frame
     * cut and qcut Methods of Pandas
     * Deleting Rows and Columns
     * Missing Values
     * Groupby Method
     * Pivot Tables in Pandas
+    * Apply and Lambda in Pandas
+    * Concat, Join and Merge Methods
+* Exploratory Data Analysis
+    * Heading of the Dataset
+    * Dataset Story
+    * Required Libraries & Setting Pandas Display Options
+    * Importing the Dataset
+    * General Information About the Dataset
+    * Separating and Inspecting of Categorical and Numerical Features
+    * Distribution of Categorical Features
+    * Distribution of Numerical Features
+    * Feature Distributions by Comparisons
+    * Correlation Analysis
 
 **Future Topics:** (COMPLETED)
 * ~Continuation of Pandas~
