@@ -2,8 +2,9 @@
 
 In this section we will cover the topics such as; how to handle and process the data, how to read it, how to visualize the data, what can we deduct from a dataset after the processes that we made and at the end we apply EDA(Exploration Data Analysis) on a valid dataset.
 
-The Dataset for this section:
+The Dataset and the EDA notebook for this section:
 * [🐾 Cats Dataset](https://www.kaggle.com/datasets/waqi786/cats-dataset)
+* [🗒️ EDA Notebook](https://www.kaggle.com/code/trigenaris/cats-dataset-eda)
 
 
 **Currently Covered Topics:**
