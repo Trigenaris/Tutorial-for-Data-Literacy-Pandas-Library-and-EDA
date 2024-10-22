@@ -1,6 +1,9 @@
-# Data Literacy, Pandas Library & Exploration Data Analysis(EDA) **(In Progress)**
+# Data Literacy, Pandas Library & Exploration Data Analysis(EDA)
 
 In this section we will cover the topics such as; how to handle and process the data, how to read it, how to visualize the data, what can we deduct from a dataset after the processes that we made and at the end we apply EDA(Exploration Data Analysis) on a valid dataset.
+
+The Dataset for this section:
+* [🐾 Cats Dataset](https://www.kaggle.com/datasets/waqi786/cats-dataset)
 
 
 **Currently Covered Topics:**
@@ -21,14 +24,14 @@ In this section we will cover the topics such as; how to handle and process the 
     * Groupby Method
     * Pivot Tables in Pandas
 
-**Future Topics:**
-* Continuation of Pandas
+**Future Topics:** (COMPLETED)
+* ~Continuation of Pandas~
     * ~Groupby Method~
     * ~Pivot Tables in Pandas~
-    * Apply and Lambda in Pandas
-    * Concat, Join and Merge Methods
-* Exploratory Data Analysis
-    * General Information About the Data Frame
-    * Analysis of Categorical and Numerical Variables
-    * Defining the Target and Analysis of Target
-    * Correlation Analysis
+    * ~Apply and Lambda in Pandas~
+    * ~Concat, Join and Merge Methods~
+* ~Exploratory Data Analysis~
+    * ~General Information About the Data Frame~
+    * ~Analysis of Categorical and Numerical Variables~
+    * ~Defining the Target and Analysis of Target~
+    * ~Correlation Analysis~
